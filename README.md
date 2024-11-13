@@ -1,0 +1,2 @@
+# Analise_PRF_2017_2024
+ Análise de dados baseado em Python e algumas de suas bibliotecas, sobre os dados da Polícia Rodoviária Federal dos anos de 2017 a 2024. Este estudo é um panorama dos dados, em que se produz uma Análise Exploratória de Dados, utiliza-se principalmente das métricas de Estatística Descritiva. A análise trabalha com a espacialização das ocorrências de acidentes, explorando possibilidades de visualização e mapeamento das ocorrências.
